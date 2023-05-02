@@ -1,0 +1,1 @@
+The Related POI Discoverer lets you discover Points Of Interest (POIs) that are related to one another. This is calculated based on resource properties and properties extracted from abstracts. This was made as a tool to investigate the research questions in my masters thesis at UiB, titled "Discovery of related geospatial points of interest using semantic web technologies".
