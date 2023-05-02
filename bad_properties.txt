@@ -1,0 +1,17 @@
+abstract
+thumbnail
+wikiHITS
+wikiPageID
+wikiPageInLinkCountCleaned
+wikiPageOutLinkCountCleaned
+wikiPageRank
+wikiPageRevisionID
+wikiPageExternalLinkabstract
+thumbnail
+wikiHITS
+wikiPageID
+wikiPageInLinkCountCleaned
+wikiPageOutLinkCountCleaned
+wikiPageRank
+wikiPageRevisionID
+wikiPageExternalLink
